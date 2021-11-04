@@ -1,0 +1,4 @@
+key3=flag2后6位
+key2=flag1后4位+flag2前2位
+key1=flag0后2位+flag1前4位
+key0=flag0前6位
